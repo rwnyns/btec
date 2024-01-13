@@ -1,0 +1,27 @@
+
+body  ,h1 ,h2 {
+    background-color: azure;
+ 
+    margin: 10% 20% 10% 20%;
+  size: 200%;
+  color: chartreuse;
+    border: double;
+    color: blue;
+    width: 50%;
+}
+#demo {
+    width: 80px;
+    background-color: chartreuse;
+}
+#Female {
+    border-color: rgb(227, 51, 51);
+}
+#Male {
+    border-color: rgb(227, 51, 51);
+}
+#p1 {
+    color: blue;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;size: 200;
+}
+#1 {
+    size: 100%;color: red;
+}
